@@ -1,7 +1,3 @@
-Here’s a shorter, no-emoji version you can drop straight into `README.md`:
-
----
-
 # IAM Policy Audit Lab – Hands-On GRC with Terraform & Rego
 
 ## Scenario: The IAM Wildcard Panic
@@ -37,7 +33,3 @@ Wildcard permissions break least privilege, obscure accountability, and are a co
 * Prevented high-risk IAM misconfigurations before deployment
 * Learned and applied Rego for access control enforcement
 * Integrated security checks directly into the development workflow
-
----
-
-Do you want me to also prepare a **GitHub Actions status badge** so your README shows live pass/fail results for the policy check? That makes portfolio labs look more professional.
