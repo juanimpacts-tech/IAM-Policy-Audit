@@ -1,4 +1,4 @@
-# IAM Policy Audit Lab – Hands-On GRC with Terraform & Rego
+# IAM Policy Audit: GRC engineering with Terraform & Rego
 
 ## Scenario: The IAM Wildcard Panic
 
